@@ -2,6 +2,13 @@
 
 This repository contains a simple Terraform-based use case to provision and configure a **MuleSoft Managed Omni Gateway** on Anypoint Platform, expose a sample upstream HTTP API, and apply inbound security and traffic-control policies.
 
+
+## YouTube Tutorial
+
+Watch the complete walkthrough here:
+
+[Build MuleSoft Managed Omni Gateway with Terraform](https://youtu.be/KM9dqF_RlkE)
+
 ## Use Case Summary
 
 The Terraform configuration deploys the following Anypoint Platform resources:
