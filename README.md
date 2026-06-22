@@ -7,7 +7,11 @@ This repository contains a simple Terraform-based use case to provision and conf
 
 Watch the complete walkthrough here:
 
-[Build MuleSoft Managed Omni Gateway with Terraform](https://youtu.be/KM9dqF_RlkE)
+<a href="https://youtu.be/KM9dqF_RlkE">
+  <img src="https://img.youtube.com/vi/KM9dqF_RlkE/maxresdefault.jpg"
+       alt="Build MuleSoft Managed Omni Gateway with Terraform"
+       width="700">
+</a>
 
 ## Use Case Summary
 
