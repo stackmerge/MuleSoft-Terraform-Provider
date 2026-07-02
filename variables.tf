@@ -60,3 +60,8 @@ variable "rate_limit_time_period_ms" {
  type        = number
  default     = 60000
 }
+
+variable "external_client_provider_id" {
+ description = "External Client Provider ID"
+ type        = string
+}
