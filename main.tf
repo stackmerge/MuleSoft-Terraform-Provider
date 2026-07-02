@@ -67,6 +67,9 @@ resource "anypoint_api_instance" "jsonplaceholder_users_api" {
  # Existing Managed Omni Gateway created by Terraform
  gateway_id = anypoint_managed_omni_gateway.demo.id
 
+ # If External Client Provider is configured then UNCOMMENT and SET below property
+ # provider_id = var.external_client_provider_id
+
  technology     = "omniGateway"
  instance_label = "jsonplaceholder-users-api"
 
