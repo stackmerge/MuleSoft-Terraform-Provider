@@ -11,3 +11,5 @@ gateway_name = "demo-managed-omni-gateway"
 
 api_asset_id      = "jsonplaceholder-users-api"
 api_asset_version = "1.0.0"
+
+external_client_provider_id = "YOUR_Client_Provider_UUID"
